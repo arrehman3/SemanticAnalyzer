@@ -1,5 +1,3 @@
-<img width="1169" height="899" alt="Screenshot from 2025-07-29 14-56-02" src="https://github.com/user-attachments/assets/8626fa40-7f11-48e2-ab26-3e5cc8600430" /># Semantic Analyzer
-
 A comprehensive semantic analysis system that performs sentiment analysis and relationship extraction from text data using machine learning techniques.
 
 ## 📋 Overview
@@ -35,7 +33,7 @@ This project implements a semantic analyzer that can:
 
 
 ## Confusion Matrix
-<img width="1169" height="899" alt="Screenshot from 2025-07-29 14-56-02" src="https://github.com/user-attachments/assets/013a622d-399c-467e-bb22-170f35e4f882" /core
+<img width="1169" height="899" alt="Screenshot from 2025-07-29 14-56-02" src="https://github.com/user-attachments/assets/013a622d-399c-467e-bb22-170f35e4f882" />
 
 ## F1 Score
 <img width="1181" height="575" alt="Screenshot from 2025-07-29 14-54-07" src="https://github.com/user-attachments/assets/15587d1a-4588-4143-afa9-30e1a308f43a" />
